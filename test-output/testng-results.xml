@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2013-03-11T06:33:48Z" finished-at="2013-03-11T06:33:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2013-03-11T06:33:48Z" finished-at="2013-03-11T06:33:48Z">
+      <class name="com.employee.EmployeeTest">
+        <test-method status="PASS" signature="sortEmployeeByName()[pri:0, instance:com.employee.EmployeeTest@358b3364]" name="sortEmployeeByName" duration-ms="21" started-at="2013-03-11T12:03:48Z" finished-at="2013-03-11T12:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortEmployeeByName -->
+        <test-method status="PASS" signature="sortEmployeeByNumber()[pri:0, instance:com.employee.EmployeeTest@358b3364]" name="sortEmployeeByNumber" duration-ms="2" started-at="2013-03-11T12:03:48Z" finished-at="2013-03-11T12:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortEmployeeByNumber -->
+        <test-method status="PASS" signature="sortEmployeeBySalary()[pri:0, instance:com.employee.EmployeeTest@358b3364]" name="sortEmployeeBySalary" duration-ms="5" started-at="2013-03-11T12:03:48Z" finished-at="2013-03-11T12:03:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortEmployeeBySalary -->
+      </class> <!-- com.employee.EmployeeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
